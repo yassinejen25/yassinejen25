@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yassine Jenhani</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&width=550&lines=5th-year+Computer+Science+Engineering+Student;Specializing+in+Artificial+Intelligence;Passionate+about+Computer+Vision" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&width=550&lines=Computer+Science+Engineering+Student" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
 
 ### How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yassine.jenhani@ensi-uma.tn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-jenhani-64356b223/)
 
 <!--
 **yassinejen25/yassinejen25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
