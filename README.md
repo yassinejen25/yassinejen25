@@ -17,11 +17,7 @@
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn,cpp,docker,git,linux" />
 </p>
 
-### GitHub Stats
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ### How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yassine.jenhani@ensi-uma.tn)
